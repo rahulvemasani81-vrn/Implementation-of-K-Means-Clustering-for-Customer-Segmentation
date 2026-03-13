@@ -68,6 +68,8 @@ plt.show()
 
 ## Output:
 <img width="701" height="126" alt="560683199-a95cc59f-c7c6-42de-a991-939e3c9f4ce6" src="https://github.com/user-attachments/assets/94c0205c-ae41-468c-8e07-dad9fe9e84c2" />
+<img width="1148" height="730" alt="image" src="https://github.com/user-attachments/assets/87ac6cb6-2b25-4e33-8e56-e6a6016851f4" />
+
 <img width="808" height="607" alt="image" src="https://github.com/user-attachments/assets/4f29ed03-4087-4988-9559-abefbb16a3e5" />
 
 
